@@ -46,3 +46,8 @@ def contact(request):
 def show (request):
     all = Appointment.objects.all()
     return render(request,'show.html',{'all':all})
+
+def delete (request,id):
+    deleteappointment = Appointment.objects.get(id=id)
+    deleteappointment.delete()
+    return redirect('/show/')
