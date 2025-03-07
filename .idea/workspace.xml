@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ee4880f2-d525-4e6e-951a-e4135a6e3563" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Templates/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/show.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/medapp/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/medapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/medapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,8 +101,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
-        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
       </set>
     </attachedChunks>
   </component>
@@ -131,11 +129,24 @@
       <workItem from="1741107034979" duration="10000" />
       <workItem from="1741151608241" duration="1014000" />
       <workItem from="1741153983361" duration="6034000" />
-      <workItem from="1741237769125" duration="300000" />
+      <workItem from="1741237769125" duration="3006000" />
+      <workItem from="1741240859714" duration="5519000" />
+      <workItem from="1741322433409" duration="2587000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/medapp/views.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
