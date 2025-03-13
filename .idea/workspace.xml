@@ -7,6 +7,10 @@
     <list default="true" id="ee4880f2-d525-4e6e-951a-e4135a6e3563" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Medilab/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medilab/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Templates/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/medapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/medapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/medapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -31,7 +36,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2tL3nDlzCtW5yYGKydvMiJyN74c" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -133,21 +140,12 @@
       <workItem from="1741322433409" duration="3580000" />
       <workItem from="1741584038992" duration="5128000" />
       <workItem from="1741669480690" duration="4006000" />
+      <workItem from="1741712765452" duration="50000" />
+      <workItem from="1741757882472" duration="4955000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/medapp/views.py</url>
-          <line>100</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
